@@ -1,4 +1,4 @@
-# ohbm-brainart.github.io
+# OHBM Brain-Art Special Interest Group (SIG) repository for website reboot 2020/21
 
 https://ohbm-brainart.github.io
-Collaborative respository for OHBM Brain Art Special Interest Group website reboot 2020/21.
+
